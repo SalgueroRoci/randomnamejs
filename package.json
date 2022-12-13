@@ -10,7 +10,7 @@
   "author": "Rocio Sal.",
   "license": "OSL-3.0",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "googleapis": "^39.2.0"
   },
   "private": true
